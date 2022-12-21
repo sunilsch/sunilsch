@@ -1,4 +1,4 @@
-## Hi there, I'm Linus 👋
+# Hi there, I'm Linus 👋
 
 ### About me
 - 16 years old
@@ -7,5 +7,7 @@
 ### Projects
 - AdventOfCode 2022 (my solutions)
 - MusicPlayer (school-project)
-- 
+
+## Stats:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsch)](https://github.com/anuraghazra/github-readme-stats)
