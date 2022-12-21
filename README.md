@@ -10,4 +10,6 @@
 
 ## Stats:
 
-![Sunilsch GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsch&show_icons=true&theme=synthwave)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsch&show_icons=true&theme=synthwave)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsch&hide=batch&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
