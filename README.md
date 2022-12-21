@@ -5,6 +5,7 @@
 - German stundent
 
 ### Projects
+- BWINF 40 / 41
 - AdventOfCode 2022 (my solutions)
 - MusicPlayer (school-project)
 
