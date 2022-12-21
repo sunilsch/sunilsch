@@ -8,6 +8,9 @@
 - AdventOfCode 2022 (my solutions)
 - MusicPlayer (school-project)
 
+### Next steps
+- Migrate other projects to GitHub
+
 ## Stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsch&show_icons=true&theme=synthwave)
