@@ -2,7 +2,7 @@
 
 ### About me
 - 16 years old
-- German stundent
+- German student
 
 ### Projects
 - BWINF 40 / 41
