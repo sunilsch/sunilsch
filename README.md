@@ -8,6 +8,7 @@
 - BWINF 40 / 41
 - AdventOfCode 2022 (my solutions)
 - MusicPlayer (school-project)
+- IoI-Training 2023
 
 ### Next steps
 - Migrate other projects to GitHub
