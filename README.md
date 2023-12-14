@@ -1,8 +1,4 @@
-# Hi there, I'm Linus 👋
-
-### About me
-- 17 years old
-- German student
+# Hi there 👋
 
 ## Stats:
 
