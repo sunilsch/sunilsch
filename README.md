@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sunilsch&show_icons=true&theme=synthwave)
